@@ -78,3 +78,7 @@
 
 
 <img width="1538" height="599" alt="Screenshot 2025-10-19 172716" src="https://github.com/user-attachments/assets/29cf3847-b426-4c93-aaa9-939ad06ddf1d" />
+<img width="1545" height="570" alt="2" src="https://github.com/user-attachments/assets/78680679-a1a3-43b8-8845-3e0272602105" />
+<img width="1578" height="802" alt="3" src="https://github.com/user-attachments/assets/f2c45dd6-6c82-405e-9593-680c4e3b2c65" />
+<img width="1562" height="736" alt="4" src="https://github.com/user-attachments/assets/5670702d-2c76-4730-a090-326516cea92a" />
+
