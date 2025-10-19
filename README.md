@@ -65,7 +65,7 @@
    ┌──────────────────────────────┐
    │ BI Semantic Layer            │
    │ Fact & Dim tables           │
-   │ for Power BI / Tableau      │
+   │ for BI Usage                │
    └──────────┬──────────────────┘
               │
               ▼
