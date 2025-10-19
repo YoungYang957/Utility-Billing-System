@@ -1,6 +1,6 @@
 # Utility-Billing-System
 ### System Overview
-<pre> ```text             
+<pre> ```             
        ┌──────────────────────────┐
        │        CSV Inputs        │
        │ customers / meters /     │
@@ -75,3 +75,6 @@
    │ drill through              │
    └────────────────────────────┘
 ``` </pre>
+
+
+<img width="1538" height="599" alt="Screenshot 2025-10-19 172716" src="https://github.com/user-attachments/assets/29cf3847-b426-4c93-aaa9-939ad06ddf1d" />
