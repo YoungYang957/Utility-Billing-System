@@ -11,8 +11,8 @@
       │        ETL Load           │
       │ load_csvs() + insert_*    │
       └──────────┬────────────────┘
-                  │
-                  ▼
+                 │
+                 ▼
    ┌──────────────────────────────┐
    │ Derive Period Usage          │
    │ compute_periods()            │
